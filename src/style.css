@@ -1,0 +1,15 @@
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between ;
+    align-items: center;  
+}
+h1{
+    background-color: aqua;
+}
+body{
+    background-color: blue;
+}
+.flex-item{
+    flex: 20;
+}
